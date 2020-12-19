@@ -15,3 +15,5 @@ Overall, the source code is now much easier to read and understand, and the webs
 The purpose of this project was to better understand how to improve on code that has already been written. By working with messy code, I now understand the importance of comments and semantic HTML elements. 
 
 Link to webpage: https://billy-mk.github.io/Week-1-Homework/#social-media-marketing
+
+A screenshot of the webpage can be found at ./assets/images/website.jpg
